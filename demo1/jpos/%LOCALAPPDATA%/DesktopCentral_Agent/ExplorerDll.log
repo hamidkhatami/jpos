@@ -1,0 +1,7 @@
+﻿Date	Time	Severity	PID	TID	Function	Message
+09-07-2025	14:56:11.980	 INFO	201980	201760	DllMain	"DLL_PROCESS_ATTACH Sun Apr 27 14:47:17 2025 11.4.2500.28"
+09-07-2025	14:56:11.981	 INFO	201980	202592	LateInitialization	"Intialization..."
+09-07-2025	14:56:11.981	 INFO	201980	202592	LateInitialization	"Exe = C:\Users\khatami\AppData\Local\Programs\Git\usr\bin\bash.exe"
+09-07-2025	14:56:11.981	 INFO	201980	202592	LateInitialization	"IsExplorer = 0"
+09-07-2025	14:56:11.982	 INFO	201980	202592	Edlp::Path::InitializeExcludedPathPatterns	"Windows drive = C:"
+09-07-2025	14:56:11.982	 INFO	201980	202592	LateInitialization	"Intialization finished"
